@@ -7,5 +7,6 @@
 2. git log -журнал изменений
 git checkout num commit -переход между сохранениями
 git checkout master - переход в актуальное состояние
+git diff -разница между текущим файлом и сохраненным
 
 ## lesson#2
