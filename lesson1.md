@@ -1,10 +1,11 @@
-*lesson#1*
+# lesson#1
 
 **git --version**
-* git status
+*git status*
 * git add name
-git commit -m(messeg)"name commit"
-git log -журнал изменений
+1. git commit -m(messeg)"name commit"
+2. git log -журнал изменений
 git checkout num commit -переход между сохранениями
 git checkout master - переход в актуальное состояние
 
+## lesson#2
