@@ -1,4 +1,4 @@
-lesson#1
+*lesson#1*
 
 git --version
 git status
